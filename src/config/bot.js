@@ -471,7 +471,7 @@ export const botConfig = {
     search: true,
     tools: true,
     utility: true,
-    community: true,
+    community: false,
     fun: true,
     music: true,
   },
